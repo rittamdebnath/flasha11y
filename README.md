@@ -1,5 +1,7 @@
 # flashA11Y
 
+<img width="1774" height="887" alt="ChatGPT Image May 24, 2026 at 11_11_54 PM" src="https://github.com/user-attachments/assets/1a3cd7a5-7085-4220-99aa-5953ba36af14" />
+
 **Design Accessibility & UX Audit Agent** — automated accessibility and UX auditing of UI design screenshots using Vision AI.
 
 Drop your Figma exports in a folder, point flashA11Y at them, and get a detailed audit report with annotated screenshots in seconds.
