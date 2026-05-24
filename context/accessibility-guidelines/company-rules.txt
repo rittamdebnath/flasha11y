@@ -1,0 +1,13 @@
+# Company Accessibility Guidelines
+
+## Severity Override Rules
+Format: "keyword pattern" -> severity # reason
+
+color contrast below 4.5:1 -> critical # Legal compliance - must meet WCAG AA minimum
+touch target below 48px -> high # Company standard exceeds WCAG 44px minimum
+missing alt text -> critical # Blocks screen reader users completely
+auto-playing video -> critical # Company policy prohibits autoplay media
+animation exceeds 5 seconds -> high # Motion sensitivity policy
+font size below 14px -> medium # Readability standard for body text
+missing focus indicator -> critical # Keyboard navigation requirement
+low contrast CTA -> high # Conversion impact for all users
